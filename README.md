@@ -4,6 +4,11 @@ UniCI is a cross-platform desktop application designed to be a "single pane of g
 
 No more juggling browser tabs.
 
+Download
+
+Get the latest official release here:
+https://github.com/ibrocast/UniCI/releases/tag/v1.0.0
+
 The Problem
 
 As developers, we constantly switch contexts:
