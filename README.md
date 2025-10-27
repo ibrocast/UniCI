@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/UniCI_logo.png" alt="UniCI Logo" width="150"></p>
+
 UniCI - The Unified CI/CD Dashboard
 
 UniCI is a cross-platform desktop application designed to be a "single pane of glass" for all your development and CI/CD operations. It provides a unified interface to trigger, monitor, and manage workflows across Jenkins, GitHub, and GitLab.
@@ -8,6 +10,7 @@ Download
 
 Get the latest official release here:
 https://github.com/ibrocast/UniCI/releases/tag/v1.0.0
+
 
 The Problem
 
